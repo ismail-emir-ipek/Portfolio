@@ -25,7 +25,8 @@ My goal is to bridge the gap between secure application development and offensiv
 
 ## 📂 Repository Architecture
 ```text
-ismail-emir-ipek/
+.
 ├── 📁 certificates/     # Industry certifications and verified achievements
 ├── 📁 osint-notes/      # TryHackMe write-ups, CTF solutions, and recon logs
-└── 📁 projects/         # Custom Python scripts, automation tools, and web apps
+├── 📁 projects/         # Custom Python scripts, automation tools, and web apps
+└── 📄 README.md         # Portfolio documentation
