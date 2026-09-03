@@ -27,6 +27,6 @@ My goal is to bridge the gap between secure application development and offensiv
 ```text
 .
 ├── 📁 certificates/     # Industry certifications and verified achievements
-├── 📁 osint-notes/      # TryHackMe write-ups, CTF solutions, and recon logs
+├── 📁 rooms/            # Completed TryHackMe rooms, labs, and key takeaways
 ├── 📁 projects/         # Custom Python scripts, automation tools, and web apps
 └── 📄 README.md         # Portfolio documentation
